@@ -1,0 +1,211 @@
+/* 1366 */
+@media screen and (max-width: 1366px){
+	.header-title h1{font-size: 48px; line-height: 68px;}
+	.sub-header-blog-box{margin: 74.5% 0 0 0;}
+	.sub-special-cover-slider .carousel-control-next{right: 3%;}
+	.sub-aerospace-slider .carousel-control-next{right: 3%;}
+	.sub-pct-stories-black-bg .carousel-control-next{right: -3%;}
+	.sub-stories-blog-main h5 a{font-size: 18px;}
+	.sub-special-cover-slider .carousel-caption h5{font-size: 32px;}
+	.sub-category-title h5 a{font-size: 22px;}
+	.sub-america-title h5{font-size: 22px;}
+	.sub-latest-news-content h6 a{font-size: 15px; line-height: 20px;}
+	.sub-aerospace-slider .carousel-caption h5{font-size: 26px;}
+	.sub-aerospace-slider .carousel-caption a{margin: 26px 15px 0 0;}
+	.sub-pct-stories-black-bg .carousel-caption h5{font-size: 24px;}
+	.sub-trending-number span{top: -8px; font-size: 44px;}
+	.header-contact-bg{padding: 142px 0;}
+}
+/* 1366 End */
+
+/* 1280 */
+@media screen and (max-width: 1280px) {
+
+}
+/* 1280 End */
+
+/* 1194 */
+@media screen and (max-width: 1194px) {
+	.header-title h1{font-size: 32px; line-height: 48px;}
+	.sub-header-blog-box{margin: 47.5% 0 0 0;}
+	.sub-special-cover-slider .carousel-control-next{right: 1%;}
+	.sub-aerospace-slider .carousel-control-next{right: 1%;}
+	.sub-pct-stories-black-bg .carousel-control-next{right: -1%;}
+	.sub-aerospace-slider .carousel-caption h5{font-size: 22px;}
+	.sub-aerospace-slider .carousel-caption a{font-size: 52px;}
+	.sub-author-content h4{font-size: 32px;}
+	.sub-author-content{padding: 0;}
+	.sub-inner-banner-title h1{font-size: 42px; padding: 30px 0;}
+	.header-title-banner{padding: 35px 0;}
+	.header-icon{display: none;}
+}
+/* 1194 End */
+
+/* 1024 */
+@media screen and (max-width: 1024px) {
+	
+}
+/* 1024 End */
+
+/* 991 */
+@media screen and (max-width: 991px) {
+	.header-banner-bg{padding: 65px 0 65px 0;}
+	.sub-header-blog-box{margin: 20px 0 0 0;}
+	.header-blog-main-mt-mb{padding: 10px 0 15px 0;}
+	.sub-latest-news-title{padding: 30px 0 30px 0;}
+	.sub-four-blog-one-main{padding: 30px 0 0 0;}
+	.sub-four-blog-one-main .sub-four-blog-one-content{padding: 0 0 30px 0;}
+	.sub-special-cover-slider{padding: 0 0 30px 0;}
+	.sub-america-four-blog .sub-four-blog-one-content{padding: 0 0 30px 0;}
+	.sub-aerospace-slider{padding: 0 0 30px 0;}
+	.sub-pct-stories-black-bg{margin: 0;}
+	.sub-category-mt-mb{padding: 30px 0 0 0;}
+	.sub-explore-category-right{padding: 0;}
+	footer{padding: 45px 0 40px 0;}
+	.sub-stories-blog-main span{width: 100%;}
+	.sub-stories-blog-main{padding: 0 0 30px 0;}
+	.sub-inner-top-mt {margin: 10px 0 0 0;}
+	.sub-catge-pagination{padding: 10px 0 20px 0;}
+	.sub-four-blog-one-content span{width: 100%;}
+	.sub-satam-mb{margin: 0;}
+	.sub-category-title{padding: 30px 0 10px 0;}
+	.sub-latest-news-ads{padding: 10px 0 0 0;}
+	.sub-inner-banner-title h1 {font-size: 32px; padding: 15px 0;}
+	.header-title-banner {padding: 20px 0;}
+	.sub-blog-dt-pt-pb{padding: 30px 0 0 0;}
+	.sub-news-list-title h1 a{font-size: 28px;}
+	.sub-news-list-content span{padding: 15px 0 0 0;}
+	.sub-news-list-content p{margin: 10px 0 0 0;}
+	.sub-news-list-content h5 a{padding: 10px 0 0 0;}
+	.header-contact-bg{background-image: none !important;}
+	.header-contact-bg .sub-inner-banner-title h1{font-size: 42px;}
+	.sub-contact-form{margin: 30px 0 0 0;}
+	.sub-contact-cut-supt{padding: 10px 0 0 0;}
+}	
+/* 991 End */
+
+/* 834 */
+@media screen and (max-width: 834px) {
+	.header-blog-details-mt-mb{padding: 35px 0;}
+}
+/* 834 End */
+
+/* 768 */
+@media screen and (max-width: 768px) {
+	.sub-pct-stories-black-bg .carousel-control-next{right: -5%;}
+}
+/* 768 End */
+
+/* 664 */
+@media screen and (max-width: 664px) {
+	.header_area{padding: 10px 0;}
+	.header-banner-bg{padding: 35px 0;}
+	.header-title h1 {font-size: 24px; line-height: 32px;}
+	.header-time-view-content{padding: 20px 0 0 0;}
+	.header-country p{margin: 0;}
+	.header-hours p{margin: 0;}
+	.header-views p{margin: 0;}
+	.sub-stories-blog-main span{width: 100%; display: inline-block;}
+	.sub-stories-blog-main{padding: 0 0 20px 0;}
+	.sub-four-blog-one-content span{width: 100%; display: inline-block;}
+	.sub-america-title h5{margin: 0 0 15px 0;}
+	.sub-pct-stories-black-bg .carousel-caption h5 {font-size: 18px;}
+	.sub-pct-stories-black-bg .carousel-control-prev{width: 32px; height: 32px;}
+	.sub-pct-stories-black-bg .carousel-control-next{width: 32px; height: 32px;}
+	.sub-aerospace-slider .carousel-control-next{width: 32px; height: 32px;}
+	.sub-aerospace-slider .carousel-control-prev{width: 32px; height: 32px;}
+	.sub-aerospace-slider .carousel-caption h5 {font-size: 20px;}
+	.sub-latest-news-title h2{font-size: 28px;}
+	.sub-aerospace-slider .carousel-caption a{font-size: 42px;}
+	.sub-aerospace-slider .carousel-caption a{margin: 30px 15px 0 0;}
+	.sub-special-cover-slider .carousel-control-next{width: 32px; height: 32px;}
+	.sub-special-cover-slider .carousel-control-prev{width: 32px; height: 32px;}
+	.sub-special-cover-slider .carousel-caption h5{font-size: 22px; padding: 15px 0;}
+	ul.sub-trending-list-blog li:first-child{padding: 0 0 20px 0;}
+	ul.sub-trending-list-blog li{padding: 20px 0 20px 0;}
+	.sub-latest-news-title{padding: 15px 0 15px 0;}
+	.carousel-imgs{padding: 0 0 80px 0;}
+	.sub-explore-category-right h3{font-size: 28px;}
+	.sub-explore-category-right ul li a{font-size: 14px;}
+	.sub-footer-menu ul li a{font-size: 14px; margin: 0 5px;}
+	.sub-author-img{margin: 15px 0 0 0;}
+	.sub-inner-banner-title h1{font-size: 24px; font-weight: 700;}
+	.sub-time-date p{margin: 0;}
+	.sub-author-title{padding: 0 0 15px 0;}
+	.sub-author-img-two{margin: 0 0 15px 0;}
+	.sub-news-list-title h1 a{font-size: 22px;}
+	.sub-news-list-content h5 a{font-size: 22px;}
+	.header-contact-bg .sub-inner-banner-title h1 {font-size: 32px;}
+}
+/* 664 End */
+
+/* 440 */
+@media screen and (max-width: 440px) {
+	.header-title h1 {font-size: 20px; line-height: 30px;}	
+	.header-time-view-content {padding: 10px 0 0 0;}
+	.sub-header-blog-box{margin: 10px 0 0 0;}
+	.header-banner-bg {padding: 20px 0;}
+	.sub-latest-news-title h2 {font-size: 26px;}
+	.sub-america-title h5 {font-size: 20px;}
+	.sub-america-btn{padding: 0 0 20px 0;}
+	.sub-special-cover-slider .carousel-caption h5{font-size: 20px;}
+	.sub-america-btn a{font-size: 16px;}
+	.sub-aerospace-slider .carousel-caption h5{font-size: 16px; padding: 20px 0;}
+	.sub-aerospace-slider .carousel-caption a{margin: 8px 15px 0 0;}
+	.sub-pct-stories-black-bg{padding: 15px 15px 0 15px;}
+	.sub-pct-stories-black-bg h4{padding: 0 0 15px 0;}
+	.sub-pct-stories-black-bg .carousel-caption h5{font-size: 16px;}
+	.sub-pct-stories-black-bg .carousel-control-prev{left: 80.5%;}
+	.sub-pct-stories-black-bg .carousel-control-next{right: 0;}
+	.sub-footer-menu ul{width: 100%; display: inline-block; text-align: center;}
+	.sub-footer-menu ul li{display: inline-block;}
+	.sub-footer-social-icon{  padding: 20px 0;}
+	.header-blog-details-mt-mb {padding: 20px 0;}
+	.sub-author-content h4 {font-size: 28px;}
+	.sub-catge-pagination .page-link{padding: 6px 15px;}
+	#return-to-top{width: 40px; height: 40px; bottom: 58px;}
+	#return-to-top i{left: 12px; top: 9px; font-size: 18px;}
+	.sub-inner-banner-title h1{font-size: 22px;}
+	.sub-news-list-title h1 a{font-size: 20px;}
+	.sub-news-list-content h5 a{font-size: 20px;}
+	.header-contact-bg .sub-inner-banner-title h1{font-size: 24px;}
+	.sub-contact-cut-supt h4{margin: 10px 0; font-size: 18px;}
+	.sub-contact-cut-supt p{font-size: 14px;}
+	.sub-contact-box{padding: 0 0 15px 0;}
+	.sub-contact-info h4{font-size: 22px;}
+	.sub-contact-form{padding: 15px;}
+	.sub-contact-form form{margin: 15px 0 0 0;}
+}
+/* 440 End */
+
+/* 430 */
+@media screen and (max-width: 430px) {
+	.sub-trending-number span{font-size: 36px;}
+	.sub-stories-blog-main h5 a{line-height: 24px;}
+	.sub-special-cover-slider .carousel-caption h5{font-size: 18px;}
+	.sub-category-title h5 a {font-size: 20px;}
+	.sub-explore-category-right h3 {font-size: 26px;}	
+	.header-time-view-content{display: inline-block;}
+	.header-hours p {margin: 10px 0;}
+}
+/* 430 End */
+
+/* 390 */
+@media screen and (max-width: 390px) {
+	.header-hours p{margin: 0;}
+	.sub-special-cover-slider .carousel-control-prev{left: 80.5%;}
+	.sub-aerospace-slider .carousel-control-prev{left: 80.5%;}
+	.sub-pct-stories-black-bg .carousel-control-prev {left: 80.5%;}
+	.sub-pct-stories-black-bg h4{font-size: 18px;}
+	.sub-pct-stories-black-bg .carousel-control-prev{width: 28px; height: 28px;}
+	.sub-pct-stories-black-bg .carousel-control-next{width: 28px; height: 28px;}
+	.sub-aerospace-slider .carousel-control-next{width: 28px; height: 28px;}
+	.sub-aerospace-slider .carousel-control-prev{width: 28px; height: 28px;}
+	.sub-special-cover-slider .carousel-control-next{width: 28px; height: 28px;}
+	.sub-special-cover-slider .carousel-control-prev{width: 28px; height: 28px;}
+	footer {padding: 20px 0 15px 0;}
+	.main-copyright-bg p{font-size: 12px;}
+	.sub-news-list-title h1 a{font-size: 18px;}
+	.sub-news-list-content h5 a{font-size: 18px;}
+}
+/* 375 End */
